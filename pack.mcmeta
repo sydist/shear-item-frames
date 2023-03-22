@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 12,
+    "description": {
+      "text": "Allows shearing of item frames\n",
+      "extra": [
+        {
+          "text": "<https://github.com/sydist>",
+          "underlined": true
+        }
+      ]
+    }
+  }
+}
